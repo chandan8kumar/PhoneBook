@@ -1,4 +1,3 @@
 # PhoneBook
-### It's a python project for handling contacts and their other small information.
-### It's GUI was made using tkinter.
-### Would love to receive your feedbacks. :)
+### A Phone book where user can save the contact details, delete and edit them as well. A search box is also provided which shows the saved contacts and user can search contact by name. Database was used to save the data and sqlite was connected with python and tkinter.
+#### Would love to receive your feedbacks. :)
